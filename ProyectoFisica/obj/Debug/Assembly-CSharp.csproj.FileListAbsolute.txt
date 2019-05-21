@@ -1,0 +1,2 @@
+/Users/gianlucariverabiagioni/Documents/UVG/Datos/ProyectoFisica/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/gianlucariverabiagioni/Documents/UVG/Datos/ProyectoFisica/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
